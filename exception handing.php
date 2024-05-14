@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-// Data login dummy (username dan password)
+
 $correct_username = "admin";
 $correct_password = "password123";
 

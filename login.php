@@ -6,7 +6,7 @@
 </head>
 <body>
     <?php 
-    $username = $password = "";
+    $username = $password = ""; 
     $usernameErr = $passwordErr = "";
 
     function bersihkan_input($data) {

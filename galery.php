@@ -12,8 +12,8 @@
 
         .gallery img {
             width: 100%;
-            height: 200px; /* Set height to a fixed value */
-            object-fit: cover; /* Cover the entire area without distorting the image */
+            height: 200px; 
+            object-fit: cover; 
         }
     </style>
 </head>

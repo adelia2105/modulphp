@@ -9,7 +9,6 @@ $identitas = [
     "jurusan" => "teknik",
 ];
 
-// Mengatur waktu kedaluwarsa cookie (misalnya, 30 hari dari sekarang)
 $expire = time() + (30 * 24 * 60 * 60);
 
 // Menyimpan data identitas dalam cookie

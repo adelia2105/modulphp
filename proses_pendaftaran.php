@@ -7,7 +7,7 @@
 <body>
     <h2>Data Pendaftaran</h2>
     <?php
-    if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    if ($_SERVER["REQUEST_METHOD"] == "POST") {            
         $nama = htmlspecialchars($_POST["nama"]);
         $nim = htmlspecialchars($_POST["nim"]);
         $email = htmlspecialchars($_POST["email"]);

@@ -12,7 +12,8 @@
         <input type="submit" value="simpan">
         <input type="reset" value="bersihkan">
     </form>
-    
+
+
     <?php
     function bersihkan_input($data) {
         $data = trim($data);

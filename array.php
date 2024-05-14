@@ -1,6 +1,6 @@
 <?php
 $dataArray = [
-    ["name" => "Alicia Abernathy", "age" => 25],
+    ["name" => "Alicia Abernathy", "age" =>25],
     ["name" => "John Doe", "age" => 30],
     ["name" => "Jane Smith", "age" => 28],
     ["name" => "Bob Johnson", "age" => 35],
